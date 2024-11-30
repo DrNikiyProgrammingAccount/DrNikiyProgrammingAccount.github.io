@@ -33,6 +33,82 @@
     </item>
     
     <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/post/linux/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/linux/</guid>
+      <description>&lt;h2 id=&#34;вводная&#34;&gt;Вводная&lt;/h2&gt;
+&lt;p&gt;Today I want to talk about one of the most interesting and powerful operating systems – Linux. This OS has won the hearts of millions of users worldwide due to its reliability, flexibility, and freedom of choice.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества&#34;&gt;Преимущества&lt;/h2&gt;
+&lt;p&gt;Key advantages of Linux:&lt;/p&gt;
+&lt;p&gt;Open Source: This means that anyone can modify the system, tailoring it to their needs.
+Security: Linux is considered one of the most secure OSes thanks to its architecture and the active developer community that quickly addresses vulnerabilities.
+Variety of Distributions: You can choose a distribution that best suits your needs – from user-friendly Ubuntu to minimalist Arch Linux.
+Free of Charge: Most Linux distributions are free, making them an excellent choice for both personal and professional use.
+Community: A large and active community of users and developers is always ready to offer advice and support.
+If you haven&amp;rsquo;t tried Linux yet, now is the perfect time to give it a shot. This OS can be a great&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по неделе 20-26 мая</title>
+      <link>http://localhost:1313/post/summary5/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary5/</guid>
+      <description>&lt;h2 id=&#34;вводная&#34;&gt;Вводная&lt;/h2&gt;
+&lt;p&gt;Последняя неделя выдалась крайне насыщенной и трудной. Нагрузка была очень большой, и я чувствую себя уставшим, но впереди свет в конце туннеля – каникулы уже не за горами! Это последние недели перед долгожданным отдыхом, и я стараюсь выдержать этот темп.&lt;/p&gt;
+&lt;h2 id=&#34;усталость&#34;&gt;Усталость&lt;/h2&gt;
+&lt;p&gt;Несмотря на усталость, я всё ещё нахожу время для программирования. Этот процесс приносит мне огромное удовольствие и помогает отвлечься от повседневных забот. Программирование – это не только моя работа, но и страсть, которая даёт мне силы продолжать двигаться вперёд, даже когда кажется, что сил уже нет.&lt;/p&gt;
+&lt;h2 id=&#34;саммари&#34;&gt;Саммари&lt;/h2&gt;
+&lt;p&gt;Держитесь, друзья! Осталось совсем немного, и мы сможем отдохнуть и набраться новых сил.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Github labs</title>
+      <link>http://localhost:1313/project/external-project/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Пост по неделе 6-12 мая</title>
+      <link>http://localhost:1313/post/summary4/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary4/</guid>
+      <description>&lt;h2 id=&#34;вводная&#34;&gt;Вводная&lt;/h2&gt;
+&lt;p&gt;Привет, друзья! Пришло время поделиться со всеми вами, что произошло на прошедшей неделе. Была это неделя полна новых вызовов, и я хотел бы поделиться некоторыми из них с вами.&lt;/p&gt;
+&lt;h2 id=&#34;дела&#34;&gt;Дела&lt;/h2&gt;
+&lt;p&gt;Сначала о работе. Неделя оказалась довольно насыщенной - было много дел, много идей, которые требовали внимания. Хотя я немного заработался, я всё ещё держусь. Работа над проектами продолжается, и я увлечён возможностями, которые они предлагают.&lt;/p&gt;
+&lt;h2 id=&#34;английский&#34;&gt;Английский&lt;/h2&gt;
+&lt;p&gt;Но помимо работы, я также решил взяться за что-то новое - изучение английского языка. Это давняя мечта, которую я всегда откладывал на потом. Теперь пришло время сделать первый шаг. Начать изучение нового языка - это не только увлекательно, но и полезно. Это открывает новые горизонты для общения, путешествий и саморазвития.&lt;/p&gt;
+&lt;h2 id=&#34;саммари&#34;&gt;Саммари&lt;/h2&gt;
+&lt;p&gt;Итак, прошедшая неделя была полна работы и новых начинаний. Я рад делиться этим с вами и с нетерпением жду новых вызовов и возможностей, которые принесёт следующая неделя. Спасибо, что следите за моим путём развития и поддерживаете меня в моих усилиях!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>http://localhost:1313/post/languages/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/languages/</guid>
+      <description>&lt;h2 id=&#34;вводная&#34;&gt;Вводная&lt;/h2&gt;
+&lt;p&gt;Программирование - это как язык, с помощью которого мы можем общаться с компьютерами и решать различные задачи. Но какие языки программирования наиболее эффективно подходят для работы в области науки? Давайте погрузимся в мир научных языков программирования и узнаем больше об их особенностях, преимуществах и областях применения.&lt;/p&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;p&gt;Python: Этот язык программирования стал популярным выбором в научных исследованиях благодаря своей простоте, гибкости и богатой экосистеме библиотек. Библиотеки такие как NumPy, SciPy, Matplotlib и Pandas делают Python мощным инструментом для анализа данных, машинного обучения, научных вычислений и визуализации данных.&lt;/p&gt;
+&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
+&lt;p&gt;R: R - это язык и среда программирования, специализированные на статистических вычислениях и визуализации данных. Он широко используется в статистике, биоинформатике, эконометрике и других областях науки. Богатая коллекция пакетов, таких как ggplot2, dplyr и tidyr, делает R мощным инструментом для анализа и визуализации данных.&lt;/p&gt;
+&lt;h2 id=&#34;julia&#34;&gt;Julia&lt;/h2&gt;
+&lt;p&gt;Julia: Julia - это относительно новый язык программирования, который разрабатывался с целью создания быстрого и простого в использовании инструмента для научных вычислений. Он сочетает в себе простоту синтаксиса Python с производительностью языков, таких как C и Fortran. Julia активно используется в области научных вычислений, математики и инженерии.&lt;/p&gt;
+&lt;h2 id=&#34;matlab&#34;&gt;MATLAB&lt;/h2&gt;
+&lt;p&gt;MATLAB: MATLAB - это коммерческий язык и среда программирования, который часто используется в инженерных и научных приложениях. Он предоставляет мощные инструменты для численных вычислений, моделирования и визуализации данных. MATLAB также имеет обширную библиотеку пакетов для работы с сигналами, изображениями и машинным обучением.&lt;/p&gt;
+&lt;h2 id=&#34;fortran&#34;&gt;Fortran&lt;/h2&gt;
+&lt;p&gt;Fortran: Fortran - один из самых старых языков программирования, который до сих пор широко используется в научных вычислениях и инженерии. Он известен своей высокой производительностью и эффективностью при работе с числовыми вычислениями. Fortran активно используется в области астрофизики, геофизики и вычислительной физики.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Пост по неделе 22-28 апреля</title>
       <link>http://localhost:1313/post/summary3/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
@@ -302,27 +378,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>http://localhost:1313/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>http://localhost:1313/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/external-project/</guid>
-      <description></description>
     </item>
     
     <item>
